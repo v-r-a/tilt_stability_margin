@@ -1,4 +1,4 @@
-Copyright (c) 2025 [Vyankatesh Ashtekar]
+Copyright (c) 2025 Vyankatesh Ashtekar
 
 All rights reserved.
 
